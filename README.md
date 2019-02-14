@@ -3,5 +3,5 @@
 
 Web Apps dengan Laravel menggunakan template polished
 
-![](header.png)
+![](head.png)
 
