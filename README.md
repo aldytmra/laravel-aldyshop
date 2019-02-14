@@ -1,7 +1,6 @@
 # Aldyshop
-> Manejemen Toko dengan Laravel
+> shop management web apps
 
-Web Apps dengan Laravel menggunakan template polished
-
+Web Apps with laravel base, use polished template in this project.
 ![](head.png)
 
